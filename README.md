@@ -1,4 +1,4 @@
-# contextlab_github_101
+# Intro to Github
  
 Workspace for demoing the various features of Github.
 
