@@ -1,4 +1,5 @@
 secrets/*.txt
 data
 data2/fake2.csv
+data3
 *.csv
