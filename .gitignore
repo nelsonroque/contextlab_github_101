@@ -1,3 +1,4 @@
-secrets/passwords.txt
+secrets/*.txt
 data
+data2/fake2.csv
 *.csv
